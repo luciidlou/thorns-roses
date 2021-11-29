@@ -1,0 +1,7 @@
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+}
+.navbar__item {
+    list-style: none;
+}
